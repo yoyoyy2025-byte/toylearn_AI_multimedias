@@ -61,4 +61,5 @@
 진행자: 지금까지 [건강 비상등]의 OOO 기자였습니다. 다음 주에도 당신의 건강을 지키는 알찬 정보로 찾아뵙겠습니다. 감사합니다.
 
 ## 필요 자료
-
+[고개마다 달라지는 목에 가해지는 압박](https://github.com/yoyoyy2025-byte/toylearn_AI_multimedias/blob/main/quests/%EB%AA%A9%20%EB%94%94%EC%8A%A4%ED%81%AC%EC%97%90%20%EA%B1%B8%EB%A6%AC%EB%8A%94%20%EC%95%95%EB%B0%95%20%EC%A0%95%EB%8F%84.jpg)
+[올바른 자세가 필요한 이유](https://github.com/yoyoyy2025-byte/toylearn_AI_multimedias/blob/main/quests/%EB%B0%94%EB%A5%B8%EC%9E%90%EC%84%B8%EA%B0%80%20%ED%95%84%EC%9A%94%ED%95%9C%EC%9D%B4%EC%9C%A0.png)
