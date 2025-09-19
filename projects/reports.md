@@ -22,3 +22,6 @@
 - [도깨비의_손길](https://github.com/yoyoyy2025-byte/toylearn_AI_multimedias/blob/main/projects/%EB%8F%84%EA%B9%A8%EB%B9%84%EC%9D%98%20%EC%86%90%EA%B8%B8.mp3) 출처 - 데이브 음악만들기 툴
 
 - [도깨비 나이트](https://github.com/yoyoyy2025-byte/toylearn_AI_multimedias/blob/main/projects/%EB%8F%84%EA%B9%A8%EB%B9%84%EB%82%98%EC%9D%B4%ED%8A%B8(1%EC%95%88).mp3) 출처 - suno
+
+
+## 스토리보드
