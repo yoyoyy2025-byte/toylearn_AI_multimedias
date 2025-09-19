@@ -4,7 +4,7 @@
 
 한국의 귀신이나 요괴 괴물 등이 사람과의 교류를 담은K-PoP
 
-이금락 : 주제 관련 가사 후보[]()
+이금락 : 주제 관련 가사 후보[Find Your Seoul](https://github.com/yoyoyy2025-byte/toylearn_AI_multimedias/blob/main/projects/Find%20Your%20Seoul.txt)
 
 *출처
 제미니를 사용하여 이미지 생성으로 캐릭터 이미지 제작
