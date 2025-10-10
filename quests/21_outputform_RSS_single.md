@@ -1,8 +1,12 @@
+prompt:
+- title과 content 필요
 
+- title 그대로 사용
+
+- content 핵심내용을 50자로 정리
 --- 
  
 
- **예시:** 
 
 
 **입력:** 
